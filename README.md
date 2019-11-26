@@ -28,4 +28,4 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
 * [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
 * [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)
-* [Website](www.website.tld)
+* [Website](www.website.domain)
