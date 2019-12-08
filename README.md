@@ -1,4 +1,4 @@
-# Basecamp Employee Handbook
+# Basecamp Employee Cookingbook
 
 For over 10 years, we didn’t have a handbook. In those 10 years, when a new person joined the company, they were expected to figure things out for themselves. But when we grew from a company of 10, 20, 30 employees to a company of over
 50, our “introduction by immersion” style stopped working. New hires felt lost and isolated, and
